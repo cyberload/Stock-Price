@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "d94ab6553d8d9232c8f4ead0e82a3306"
+build_time: [1556130158, 330910000]
+inputs:
+  "/Users/bo/Desktop/Stock-Price/Stocking&Price/Stocking&Price/SecondViewController.swift": [1556130070, 0]
+  "/Users/bo/Desktop/Stock-Price/Stocking&Price/Stocking&Price/AppDelegate.swift": [1555959877, 0]
+  "/Users/bo/Desktop/Stock-Price/Stocking&Price/Stocking&Price/AddViewController.swift": [1556130151, 0]
+  "/Users/bo/Desktop/Stock-Price/Stocking&Price/Stocking&Price/FirstViewController.swift": [1555959877, 0]
