@@ -13,6 +13,7 @@
 		AA276B80225BD1FA0011D9EC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA276B7E225BD1FA0011D9EC /* Main.storyboard */; };
 		AA276B82225BD1FE0011D9EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA276B81225BD1FE0011D9EC /* Assets.xcassets */; };
 		AA276B85225BD1FE0011D9EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA276B83225BD1FE0011D9EC /* LaunchScreen.storyboard */; };
+		C03D6F3B2270DC0E0055F6F4 /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C03D6F3A2270DC0E0055F6F4 /* AddViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AA276B81225BD1FE0011D9EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AA276B84225BD1FE0011D9EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AA276B86225BD1FE0011D9EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C03D6F3A2270DC0E0055F6F4 /* AddViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				AA276B78225BD1F90011D9EC /* AppDelegate.swift */,
 				AA276B7A225BD1F90011D9EC /* FirstViewController.swift */,
 				AA276B7C225BD1FA0011D9EC /* SecondViewController.swift */,
+				C03D6F3A2270DC0E0055F6F4 /* AddViewController.swift */,
 				AA276B7E225BD1FA0011D9EC /* Main.storyboard */,
 				AA276B81225BD1FE0011D9EC /* Assets.xcassets */,
 				AA276B83225BD1FE0011D9EC /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			files = (
 				AA276B7D225BD1FA0011D9EC /* SecondViewController.swift in Sources */,
 				AA276B79225BD1F90011D9EC /* AppDelegate.swift in Sources */,
+				C03D6F3B2270DC0E0055F6F4 /* AddViewController.swift in Sources */,
 				AA276B7B225BD1F90011D9EC /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
