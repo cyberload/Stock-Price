@@ -9,7 +9,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Most Recent View Controller-->
+        <!--Most Recent-->
         <scene sceneID="hNz-n2-bh7">
             <objects>
                 <viewController id="9pv-A4-QxB" customClass="MostRecentViewController" sceneMemberID="viewController">
@@ -43,7 +43,7 @@
                             <constraint firstAttribute="centerY" secondItem="KQZ-1w-vlD" secondAttribute="centerY" id="exm-UA-ej4"/>
                         </constraints>
                     </view>
-                    <tabBarItem key="tabBarItem" systemItem="mostRecent" id="acW-dT-cKf">
+                    <tabBarItem key="tabBarItem" title="Most Recent" image="Rencent" id="acW-dT-cKf">
                         <offsetWrapper key="titlePositionAdjustment" horizontal="0.0" vertical="0.0"/>
                     </tabBarItem>
                 </viewController>
@@ -283,6 +283,7 @@
         </scene>
     </scenes>
     <resources>
+        <image name="Rencent" width="30" height="30"/>
         <image name="bar_chart" width="30" height="30"/>
         <image name="list" width="28" height="28"/>
         <image name="user_male" width="30" height="30"/>
